@@ -12,6 +12,7 @@ const Table = () => {
       userId: 1,
       id: 1,
       age: 28,
+    
       name: "Guldana",
       title: "quidem molestiae enim",
     },
